@@ -31,4 +31,4 @@ The table says if the character is cool or meta[^1]
 
 [*Biodiversity* **PMC** ](https://biodiversitypmc.sibils.org/)
 
-[^1]: The voices in my head.
+[^1]: The voices in my head..
